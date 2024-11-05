@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\bin\Debug\net8.0\typingSpeedPractice_csharp.exe
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\bin\Debug\net8.0\typingSpeedPractice_csharp.deps.json
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\bin\Debug\net8.0\typingSpeedPractice_csharp.runtimeconfig.json
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\bin\Debug\net8.0\typingSpeedPractice_csharp.dll
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\bin\Debug\net8.0\typingSpeedPractice_csharp.pdb
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\typingSpeedPractice_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\typingSpeedPractice_csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\typingSpeedPractice_csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\typingSpeedPractice_csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\typingSpeedPractice_csharp.sourcelink.json
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\typingSpeedPractice_csharp.dll
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\refint\typingSpeedPractice_csharp.dll
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\typingSpeedPractice_csharp.pdb
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\typingSpeedPractice_csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\60days\Day 2\typingSpeedPractice_csharp\obj\Debug\net8.0\ref\typingSpeedPractice_csharp.dll
